@@ -29,12 +29,12 @@ Then the second column of the **dataSmall** data, which contains the activities 
 Finally the original activity ID number column is removed from the data set, which is replaced by the **activitynames** column. 
 
 
-### 4. descriptive variable names
+#### 4. descriptive variable names
 
 The variable names (column names) are separated into different parts and renamed into the more descriptive names, and put back to replace the original ones.
 
 
-### 5. average value calculation
+#### 5. average value calculation
 
 From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
